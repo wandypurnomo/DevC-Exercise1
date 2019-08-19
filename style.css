@@ -87,3 +87,7 @@
 .bg-blue{
     background: blue;
 }
+
+.label{
+    font-weight: bold;
+}
